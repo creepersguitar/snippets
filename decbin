@@ -1,0 +1,2 @@
+dec = int(input("please enter a number "))
+print (" The binary equivilant is", bin(dec)[2:])
