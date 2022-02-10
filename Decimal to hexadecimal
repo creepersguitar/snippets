@@ -1,0 +1,2 @@
+decimal = int(input("Please enter a number now ... : "))
+print(" The Hexadecimal Equivilant is ... ", hex(decimal)[2:])
